@@ -2,6 +2,10 @@
 
 A browser-based Rock Paper Scissors game I built for The Odin Project.
 
+## Live demo
+
+[Play it here](https://sspatel107.github.io/rock-paper-scissor/)
+
 ## How it works
 
 - I click Rock, Paper, or Scissors to play a round against the computer.
